@@ -11,7 +11,7 @@
 9. TCP와 UDP의 차이점에 대해서 설명해보세요.
 10. TCP 3, 4 way handshake에 대해서 설명해보세요.
 11. [HTTP와 HTTPS의 차이점에 대해서 설명해보세요.](11.md)
-12. HTTPS에 대해서 설명하고 SSL Handshake에 대해서 설명해보세요.
+12. [HTTPS에 대해서 설명하고 SSL Handshake에 대해서 설명해보세요.](15 - Restful.md)
 13. GET과 POST의 차이점에 대해서 설명해보세요.
 14. HTTP 메서드와 이것이 하는 역할에 대해서 설명해보세요.
 15. RESTful이란 무엇이며, 이것에 대해서 아는대로 설명해보세요.
