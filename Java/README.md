@@ -13,7 +13,7 @@
 11. 접근 제어자의 종류와 이에 대해 설명해주세요.
 12. 객체지향에 대해서 설명해주세요.
 13. SOLID(객체지향 5대원칙)에 대해서 설명해주세요.
-14. 동일성(identity)와 동등성(equality)에 대해 설명해주세요. (equals(), ==)
+[14. 동일성(identity)와 동등성(equality)에 대해 설명해주세요. (equals(), ==)](14.md)
 15. 원시타입과 참조타입의 차이에 대해 설명해주세요.
 16. String, StringBuilder, StringBuffer 각각의 차이에 대해 설명해주세요.
 17. Checked Exception과 Unchecked Exception에 대해 설명해주세요. 스프링 트랜잭션 추상화에서 rollback 대상은 무엇일까요?
@@ -28,7 +28,7 @@
 26. interface default implementation 이란? abstract class 를 상속받는 것과 기본 구현을 들고 있는 interface 를 implements 하는것은 어떤 차이가 있나요?
 27. Java stream method 중 map 과 flatMap 의 차이에 대해 설명해주세요.
 28. 메소드에서 리스트 타입의 파라미터를 받을 때, ArrayList - List - Collection - Iterable 처럼 구체 타입 뿐 아니라 상위 타입도 받을 수 있습니다. 컬렉션을 받는 어떤 API 를 구현하실 때 구체 타입의 API 디자인을 선호하는지, 추상 타입의 API 디자인을 선호하는지를 설명해 주세요. 왜 그런 선택을 하시나요?
-29. Java 의 equals 와 == 의 차이에 대해 설명해주세요. Kotlin 의 == 와 === 는 어떤 차이가 있나요?
+29. [Java 의 equals 와 == 의 차이에 대해 설명해주세요. Kotlin 의 == 와 === 는 어떤 차이가 있나요?](14.md)
 30. 스프링의 @Autowired 를 가급적 쓰지 말라는 이야기가 종종 들리는데 원인이 뭘까요?
 31. final 키워드를 변수, 메소드, 클래스에 선언하는 것은 어떤 의미가 있습니까?
 32. synchronized 를 메소드에 선언하는 것과, 특정 객체에 선언하는 것은 어떤 차이가 있습니까?
