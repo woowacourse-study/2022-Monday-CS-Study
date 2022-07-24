@@ -30,9 +30,4 @@ REST의 조건을 지키기 위해서는
 
 
 ## 참고 자료
-- https://www.youtube.com/watch?v=wPdH7lJ8jf0
-- https://mangkyu.tistory.com/98
-- https://devjem.tistory.com/3
-- https://brunch.co.kr/@hyoi0303/10
-- https://www.digicert.com/kr/what-is-ssl-tls-and-https
-- [2021년 구글 크롬 https 자동 연결 예정](https://cert.crosscert.com/%EF%BB%BF2021%EB%85%84-%EA%B5%AC%EA%B8%80-%ED%81%AC%EB%A1%AC-https-%EC%9E%90%EB%8F%99-%EC%97%B0%EA%B2%B0-%EC%98%88%EC%A0%95/)
+- https://velog.io/@injoon2019/CS-REST-API
