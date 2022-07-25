@@ -13,7 +13,7 @@
 11. 접근 제어자의 종류와 이에 대해 설명해주세요.
 12. 객체지향에 대해서 설명해주세요.
 13. SOLID(객체지향 5대원칙)에 대해서 설명해주세요.
-[14. 동일성(identity)와 동등성(equality)에 대해 설명해주세요. (equals(), ==)](14.md)
+14. [동일성(identity)와 동등성(equality)에 대해 설명해주세요. (equals(), ==)](14.md)
 15. 원시타입과 참조타입의 차이에 대해 설명해주세요.
 16. String, StringBuilder, StringBuffer 각각의 차이에 대해 설명해주세요.
 17. Checked Exception과 Unchecked Exception에 대해 설명해주세요. 스프링 트랜잭션 추상화에서 rollback 대상은 무엇일까요?
