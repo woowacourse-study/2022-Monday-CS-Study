@@ -2,7 +2,7 @@
 
 1. 배열과 링크드 리스트의 차이를 설명해주세요.
 2. List와 Set의 차이에 대해서 설명해주세요.
-3. Hash Function, HashTable에 대해서 설명해주세요.
+3. [Hash Function, HashTable에 대해서 설명해주세요.](3.md)
 4. Stack, Queue에 대해서 설명해주세요.
 5. [Heap, Priority Queue에 대해서 설명해주세요.](5.md)
 6. Tree, Binary Tree, BST, AVL Tree에 대해서 설명해주세요.
