@@ -76,7 +76,7 @@
 62. Spring에서 CORS 에러를 해결하기 위한 방법을 설명해주세요. 
 63. Bean/Component 어노테이션에 대해서 설명해주시고, 둘의 차이점에 대해 설명해주세요. 
 64. POJO란 무엇인가요? Spring Framework에서 POJO는 무엇이 될 수 있을까요? 
-65. Spring Web MVC에서 요청 마다 Thread가 생성되어 Controller를 통해 요청을 수행할텐데, 어떻게 1개의 Controller만 생성될 수 있을까요? 
+65. [Spring Web MVC에서 요청 마다 Thread가 생성되어 Controller를 통해 요청을 수행할텐데, 어떻게 1개의 Controller만 생성될 수 있을까요?](65.md) 
 66. Filter는 Servlet의 스펙이고, Interceptor는 Spring MVC의 스펙입니다. Spring Application에서 Filter와 Interceptor를 통해 예외를 처리할 경우 어떻게 해야 할까요? 
 67. Spring Application을 구동할 때 메서드를 실행시키는 방법에 대해 설명해주세요. 
 68. 의존성과 설정값을 생성자 인자로 주입해야 하는 이유에 대해 설명해주세요.
