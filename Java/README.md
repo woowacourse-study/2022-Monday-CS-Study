@@ -35,7 +35,7 @@
 33. Reflection 을 유용하게 사용하는 사례를 말씀해 주세요.
 34. JDK/JVM 은 대표적으로 OpenJDK 와 Oracle JDK 로 나뉘는데요, 업무에 어떤 JDK 를 사용하시겠습니까? 선택의 이유를 말씀해 주세요.
 35. hashCode / equals 메소드의 역할에 대해 아시는 내용을 최대한 설명해주세요.
-36. Java 의 Collections.unmodifiableList 같은 API 를 이용해 List 같은 collection 을 변경 불가능하게 만들 수 있습니다. 그렇다면 이 API 를 사용하면 immutability 를 달성할 수 있을까요?
+36. [Java 의 Collections.unmodifiableList 같은 API 를 이용해 List 같은 collection 을 변경 불가능하게 만들 수 있습니다. 그렇다면 이 API 를 사용하면 immutability 를 달성할 수 있을까요?](36.md)
 37. 다음 싱글턴 코드의 어떤 점을 개선하실 수 있습니까? (개선이 필요 없을 수도 있음 / 왜?)
     ```java
     class MySingleton {
@@ -54,14 +54,14 @@
 40. 크기를 지정하지 않고 ArrayList 를 new 로 생성하면 크기 10의 ArrayList 가 생성됩니다. Array 는 크기를 넘길 수 없는데 반해 ArrayList 는 꽉 찬 List 에 element 를 추가로 더할 수 있습니다. 그렇다면 10개의 element 를 채워넣은 ArrayList 의 11번째 element 을 add 하기위해 어떤 일이 일어나는지 설명해주세요.
 41. java.lang.String 의 hashCode 구현에 대해 고찰해 봅시다. 왜 그런 구현일지, 문제점은 없을지 이야기해주세요.
 42. lambda 와 메소드 1개만 있는 익명 클래스 직접 선언은 문법적 차이 외에 어떤 내부적인 차이가 있을까요?
-43. Java generics 에는 primitive type 을 쓸 수 없는 문제가 있습니다. 왜 그럴까요? 어떻게 해결할 수 있을까요?
+43. [Java generics 에는 primitive type 을 쓸 수 없는 문제가 있습니다. 왜 그럴까요? 어떻게 해결할 수 있을까요?](43.md)
 44. I/O 를 Java nio 로 코딩할 때 주의점은 어떤게 있을까요?
 45. Java 는 Pure OOP 언어가 아니라고 하는데, 왜 그런 걸까요?
 46. java.lang.String 의 length 메소드는 정확한 결과를 반환하지 않는 경우가 종종 있습니다. 정확한 의 의미란 무엇이고, 왜 그럴까요?
 47. Maven 이나 Gradle 이, 의존성 선언한 artifact 들을 찾는 과정에 대해 설명해주세요.
 48. java.util.Property extends Hashtable, java.util.Stack extends Vector 같은 클래스는 상속으로 망한 대표 사례입니다. 이유를 설명해 주세요.
 49. Spring boot 가 stereotype annotation 을 붙인 클래스들을 어떻게 찾고 bean 으로 등록하는지 그 과정을 최대한 상세하게 설명해주세요.
-50. Spring 은 @Transactional 어노테이션 붙인 메소드를 어떻게 찾고 트랜잭션을 처리하나요? 그 내부 구현을 상세하게 설명해 주세요.
+50. [Spring 은 @Transactional 어노테이션 붙인 메소드를 어떻게 찾고 트랜잭션을 처리하나요? 그 내부 구현을 상세하게 설명해 주세요.](50.md)
 51. 메소드에 @Transactional 을 붙이는 것과, TransactionTemplate 을 사용해 트랜잭션을 직접 제어하는 것에는 어떤 차이가 있나요? 어떤 방식을 더 선호하시는지 그 이유도 함께 설명해 주시기 바랍니다.
 52. Spring DI/IoC는 어떻게 동작하나요? 
 53. Spring Bean이란 무엇인가요? 
@@ -70,7 +70,7 @@
 56. IoC 컨테이너의 역할은 무엇이 있을까요? 
 57. DI 종류는 어떤것이 있고, 이들의 차이는 무엇인가요? 
 58. Autowiring 과정에 대해서 설명해주세요. 
-59. Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명해주세요. 
+59. [Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명해주세요.](59.md)
 60. 프론트 컨트롤러 패턴이란 무엇인가요? 
 61. Servlet Filter와 Spring Interceptor의 차이는 무엇인가요? 
 62. Spring에서 CORS 에러를 해결하기 위한 방법을 설명해주세요. 
