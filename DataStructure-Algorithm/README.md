@@ -5,7 +5,7 @@
 3. [Hash Function, HashTable에 대해서 설명해주세요.](3.md)
 4. Stack, Queue에 대해서 설명해주세요.
 5. [Heap, Priority Queue에 대해서 설명해주세요.](5.md)
-6. Tree, Binary Tree, BST, AVL Tree에 대해서 설명해주세요.
+6. [Tree, Binary Tree, BST, AVL Tree에 대해서 설명해주세요.](6.md)
 7. BST의 최악의 경우의 예와 시간복잡도에 대해서 설명해주세요.
 8. 피보나치 수열을 코드로 구현하는 방법에 대해서 설명해주세요.
 9. [이진탐색을 코드로 구현하고 설명해주세요.](9.md)
