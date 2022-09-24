@@ -5,7 +5,7 @@
 3. 컬렉션 프레임워크에 대해서 설명해주세요.
 4. 제네릭에 대해서 설명해주세요.
 5. 애노테이션에 대해서 설명해주세요.
-6. 오버라이딩과 오버로딩이 무엇이며 어떤 차이가 있을까요?
+6. [오버라이딩과 오버로딩이 무엇이며 어떤 차이가 있을까요?](6.md)
 7. 인터페이스와 추상클래스의 차이점에 대해 설명해주세요.
 8. 클래스는 무엇이고 객체는 무엇인가요?
 9. 정적(static)이란 무엇인가요?
@@ -16,7 +16,7 @@
 14. [동일성(identity)와 동등성(equality)에 대해 설명해주세요. (equals(), ==)](14.md)
 15. 원시타입과 참조타입의 차이에 대해 설명해주세요.
 16. [String, StringBuilder, StringBuffer 각각의 차이에 대해 설명해주세요.](16.md)
-17. Checked Exception과 Unchecked Exception에 대해 설명해주세요. 스프링 트랜잭션 추상화에서 rollback 대상은 무엇일까요?
+17. [Checked Exception과 Unchecked Exception에 대해 설명해주세요. 스프링 트랜잭션 추상화에서 rollback 대상은 무엇일까요?](17.md)
 18. Java8에서 추가된 기능에 대해서 설명해주세요.
 19. try-with-resource에 대해서 설명해주세요.
 20. 강한 결합과 느슨한 결합이 무엇인지 설명해주세요.
@@ -76,7 +76,7 @@
 62. Spring에서 CORS 에러를 해결하기 위한 방법을 설명해주세요. 
 63. Bean/Component 어노테이션에 대해서 설명해주시고, 둘의 차이점에 대해 설명해주세요. 
 64. POJO란 무엇인가요? Spring Framework에서 POJO는 무엇이 될 수 있을까요? 
-65. Spring Web MVC에서 요청 마다 Thread가 생성되어 Controller를 통해 요청을 수행할텐데, 어떻게 1개의 Controller만 생성될 수 있을까요? 
+65. [Spring Web MVC에서 요청 마다 Thread가 생성되어 Controller를 통해 요청을 수행할텐데, 어떻게 1개의 Controller만 생성될 수 있을까요?](65.md) 
 66. Filter는 Servlet의 스펙이고, Interceptor는 Spring MVC의 스펙입니다. Spring Application에서 Filter와 Interceptor를 통해 예외를 처리할 경우 어떻게 해야 할까요? 
 67. Spring Application을 구동할 때 메서드를 실행시키는 방법에 대해 설명해주세요. 
 68. 의존성과 설정값을 생성자 인자로 주입해야 하는 이유에 대해 설명해주세요.
