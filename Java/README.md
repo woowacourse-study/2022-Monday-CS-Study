@@ -80,3 +80,4 @@
 66. Filter는 Servlet의 스펙이고, Interceptor는 Spring MVC의 스펙입니다. Spring Application에서 Filter와 Interceptor를 통해 예외를 처리할 경우 어떻게 해야 할까요? 
 67. Spring Application을 구동할 때 메서드를 실행시키는 방법에 대해 설명해주세요. 
 68. 의존성과 설정값을 생성자 인자로 주입해야 하는 이유에 대해 설명해주세요.
+69. [톰캣의 NIO Connector의 동작 방식에 대해 설명해주세요.](69.md)
