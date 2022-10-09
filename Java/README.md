@@ -18,8 +18,8 @@
 16. [String, StringBuilder, StringBuffer 각각의 차이에 대해 설명해주세요.](16.md)
 17. [Checked Exception과 Unchecked Exception에 대해 설명해주세요. 스프링 트랜잭션 추상화에서 rollback 대상은 무엇일까요?](17.md)
 18. Java8에서 추가된 기능에 대해서 설명해주세요.
-19. try-with-resource에 대해서 설명해주세요.
-20. 강한 결합과 느슨한 결합이 무엇인지 설명해주세요.
+19. [try-with-resource에 대해서 설명해주세요.](19.md)
+20. [강한 결합과 느슨한 결합이 무엇인지 설명해주세요.](20.md)
 21. 직렬화와 역직렬화에 대해서 설명해주세요.
 22. 자바의 동시성 이슈(공유자원 접근)에 대해 설명해주세요.
 23. Mutable 객체와 Immutable 객체의 차이점에 대해 설명해주세요.
