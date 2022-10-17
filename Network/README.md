@@ -24,3 +24,4 @@
 22. SQL Injection에 대해서 간단히 설명해주세요. 
 23. [XSS에 대해서 간단히 설명해주세요.](23md)
 24. [CSRF에 대해서 간단히 설명해주세요.](24.md)
+25. [NAT(Network Address Translation)에 대해 설명해주세요.](25.md)
