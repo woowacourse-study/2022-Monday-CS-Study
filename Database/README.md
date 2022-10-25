@@ -30,3 +30,4 @@
 28. Elastic Search의 키워드 검색과 RDBMS의 LIKE 검색의 차이에 대해 설명해주세요.
 29. MongoDB에 대해서 간단히 설명해주세요.
 30. CAP 이론과, Eventual Consistency에 대해서 설명해주세요.
+31. [JPA에서 영속성 컨텍스트를 사용하므로써 얻을 수 있는 이점은 뭐라고 생각하시나요?](31.md)
